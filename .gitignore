@@ -4,6 +4,7 @@ hardhat/coverage
 hardhat/coverage.json
 hardhat/typechain
 hardhat/typechain-types
+.idea
 
 #Hardhat files
 hardhat/cache
